@@ -1,11 +1,22 @@
-﻿  Building ActionGameEditor...
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming).
+  Building ActionGameEditor...
   Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 4 processes...
-    [1/4] MainCharacter.cpp
-    [2/4] UE4Editor-ActionGame-0010.lib
-       ライブラリ D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0010.lib とオブジェクト D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0010.exp を作成中
-    [3/4] UE4Editor-ActionGame-0010.dll
-       ライブラリ D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0010.suppressed.lib とオブジェクト D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0010.suppressed.exp を作成中
-    [4/4] ActionGameEditor.target
-  Total time in Parallel executor: 7.87 seconds
-  Total execution time: 8.59 seconds
+  Building 14 actions with 4 processes...
+    [1/14] SharedPCH.Engine.ShadowErrors.cpp
+    [2/14] ActionGame.cpp
+    [3/14] ActionGameGameMode.cpp
+    [4/14] ActionGameCharacter.cpp
+    [5/14] MyMainCharacter_Anim.cpp
+    [6/14] ActionGame.init.gen.cpp
+    [7/14] ActionGameCharacter.gen.cpp
+    [8/14] ActionGameGameMode.gen.cpp
+    [9/14] MainCharacter.gen.cpp
+    [10/14] MyMainCharacter_Anim.gen.cpp
+    [11/14] MainCharacter.cpp
+    [12/14] UE4Editor-ActionGame-0013.lib
+       ライブラリ C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0013.lib とオブジェクト C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0013.exp を作成中
+    [13/14] UE4Editor-ActionGame-0013.dll
+       ライブラリ C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0013.suppressed.lib とオブジェクト C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\UE4Editor-ActionGame-0013.suppressed.exp を作成中
+    [14/14] ActionGameEditor.target
+  Total time in Parallel executor: 40.63 seconds
+  Total execution time: 42.03 seconds
