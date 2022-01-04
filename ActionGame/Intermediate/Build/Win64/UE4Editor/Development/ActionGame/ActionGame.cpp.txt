@@ -1,2 +1,2 @@
-D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\Definitions.ActionGame.h
-D:\UE4ProjectList\ActionGame\Source\ActionGame\ActionGame.h
+C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\Definitions.ActionGame.h
+C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Source\ActionGame\ActionGame.h

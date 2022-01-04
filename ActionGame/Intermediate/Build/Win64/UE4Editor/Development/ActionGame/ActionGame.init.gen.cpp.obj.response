@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Inc\ActionGame
-/I D:\UE4ProjectList\ActionGame\Source
+/I C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\UE4Editor\Inc\ActionGame
+/I C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Source
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\ActionGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\ActionGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\ActionGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Inc\ActionGame\ActionGame.init.gen.cpp"
-/FI"D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\Definitions.ActionGame.h"
-/Fo"D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\ActionGame.init.gen.cpp.obj"
+/FI"C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\ActionGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\ActionGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\ActionGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\UE4Editor\Inc\ActionGame\ActionGame.init.gen.cpp"
+/FI"C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\Definitions.ActionGame.h"
+/Fo"C:\Users\GZ_A00115\develop\GitHub\UnrealPrograming\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\ActionGame.init.gen.cpp.obj"
 /TP
 /GR-
 /W4
