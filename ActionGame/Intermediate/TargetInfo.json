@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ActionGame",
+			"Path": "D:\\UE4ProjectList\\ActionGame\\Source\\ActionGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActionGameEditor",
+			"Path": "D:\\UE4ProjectList\\ActionGame\\Source\\ActionGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

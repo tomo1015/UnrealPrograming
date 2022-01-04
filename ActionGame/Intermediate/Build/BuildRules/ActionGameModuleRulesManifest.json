@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE4ProjectList\\ActionGame\\Source\\ActionGame\\ActionGame.Build.cs",
+		"D:\\UE4ProjectList\\ActionGame\\Source\\ActionGame.Target.cs",
+		"D:\\UE4ProjectList\\ActionGame\\Source\\ActionGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

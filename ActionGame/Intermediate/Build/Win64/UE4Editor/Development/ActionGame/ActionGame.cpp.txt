@@ -1,0 +1,2 @@
+D:\UE4ProjectList\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\Definitions.ActionGame.h
+D:\UE4ProjectList\ActionGame\Source\ActionGame\ActionGame.h
